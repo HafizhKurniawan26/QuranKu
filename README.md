@@ -2,11 +2,13 @@
 
 Aplikasi Quran digital, doa, dan jadwal sholat berbasis Android.
 
+---
 
 ## Tentang Aplikasi
 
 QuranKu adalah aplikasi mobile Android yang membantu pengguna membaca Al-Qur'an, mendengarkan murattal, menghafal doa-doa harian, dan mengetahui jadwal sholat dengan mudah. Aplikasi ini dirancang untuk menemani ibadah pengguna sehari-hari dengan antarmuka yang sederhana dan nyaman digunakan.
 
+---
 
 ## Fitur
 
@@ -21,6 +23,26 @@ QuranKu adalah aplikasi mobile Android yang membantu pengguna membaca Al-Qur'an,
 - Dark Mode - Tampilan gelap untuk kenyamanan membaca
 - Talkback (Aksesibilitas) - Dukungan screen reader untuk pengguna dengan kebutuhan khusus
 
+---
+
+## Screenshot
+
+Berikut adalah tampilan dari aplikasi QuranKu:
+
+<p align="center">
+  <img src="screenshots/splash_screen.jpeg" alt="Splace Screen" width="200"/>
+  <img src="screenshots/home.jpeg" alt="Halaman Utama" width="200"/>
+  <img src="screenshots/quran_list.jpeg" alt="List Surah" width="200"/>
+  <img src="screenshots/quran_detail.jpeg" alt="Isi Surah" width="200"/>
+  <img src="screenshots/bookmark.jpeg" alt="Bookmark" width="200"/>
+  <img src="screenshots/doa_list.jpeg" alt="List Doa" width="200"/>
+  <img src="screenshots/doa_detail.jpeg" alt="Isi Doa" width="200"/>
+  <img src="screenshots/jadwal.jpeg" alt="Jadwal Sholat" width="200"/>
+  <img src="screenshots/setting.jpeg" alt="Setting" width="200"/>
+  <img src="screenshots/about" alt="Tentang Aplikasi" width="200"/>
+</p>
+
+---
 
 ## Download & Instalasi
 
@@ -40,24 +62,23 @@ QuranKu adalah aplikasi mobile Android yang membantu pengguna membaca Al-Qur'an,
 
 ### Instalasi Manual via ADB (Opsional)
 
+```bash
 adb install QuranKu-v1.0.0.apk
+```
 
-
-## Screenshot
-
-(Screenshot akan ditambahkan pada rilis berikutnya)
-
+---
 
 ## Teknologi
 
 Aplikasi ini dibangun dengan:
 
-- Language: Typescript
-- Framework: React Native Expo
-- Database: Expo SQLite
-- Platform: Android
-
+- **Language:** Typescript
+- **Framework:** React Native Expo
+- **Database:** Expo SQLite
+- **Platform:** Android
 
 ---
 
-QuranKu - Menemani Ibadah Setiap Hari
+<div align="center">
+  <b>QuranKu</b> — Menemani Ibadah Setiap Hari
+</div>
