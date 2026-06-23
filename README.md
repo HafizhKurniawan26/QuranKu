@@ -63,7 +63,7 @@ Berikut adalah tampilan dari aplikasi QuranKu:
 ### Instalasi Manual via ADB (Opsional)
 
 ```bash
-adb install QuranKu-v1.0.0.apk
+adb install quranku-release.apk
 ```
 
 ---
