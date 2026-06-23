@@ -14,7 +14,7 @@ QuranKu adalah aplikasi mobile Android yang membantu pengguna membaca Al-Qur'an,
 
 - Al-Qur'an Digital - Membaca 30 Juz lengkap dengan teks Arab
 - Tafsir - Tafsir ringkas per ayat
-- Audio Murattal - Streaming murottal dari berbagai qari
+- Audio Murattal - Streaming murottal dari Syaikh Mishary Rashid Alafasy
 - Search Bar - Pencarian ayat berdasarkan kata kunci
 - Bookmark - Menyimpan dan melanjutkan bacaan ayat terakhir
 - Share Ayat - Membagikan ayat ke media sosial atau aplikasi lain
